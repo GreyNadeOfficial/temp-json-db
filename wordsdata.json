@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "word": "equably",
+        "pronunciation": "ˈɛkwəbli",
+        "partOfSpeech": "adverb",
+        "definition": "in a calm and even manner; not varying.",
+        "example": "She spoke equably, maintaining a calm tone throughout the meeting.",
+        "isFavorite": false
+    },
+    {
+        "id": 2,
+        "word": "retinue",
+        "pronunciation": "ˈrɛtɪnjuː",
+        "partOfSpeech": "noun",
+        "definition": "a group of advisers, assistants, or others accompanying an important person.",
+        "example": "The queen arrived with her retinue of advisors and guards.",
+        "isFavorite": false
+    },
+    {
+        "id": 3,
+        "word": "perfunctory",
+        "pronunciation": "pəˈfʌŋktəri",
+        "partOfSpeech": "adjective",
+        "definition": "carried out with a minimum of effort or reflection.",
+        "example": "He gave a perfunctory nod before leaving the room.",
+        "isFavorite": false
+    },
+    {
+        "id": 4,
+        "word": "quintessential",
+        "pronunciation": "ˌkwɪntɪˈsɛnʃəl",
+        "partOfSpeech": "adjective",
+        "definition": "representing the most perfect or typical example of a quality or class.",
+        "example": "She was the quintessential example of grace and elegance.",
+        "isFavorite": true
+    },
+    {
+        "id": 5,
+        "word": "recalcitrant",
+        "pronunciation": "rɪˈkælsɪtrənt",
+        "partOfSpeech": "adjective",
+        "definition": "having an obstinately uncooperative attitude towards authority or discipline.",
+        "example": "The recalcitrant child refused to obey his parents' instructions.",
+        "isFavorite": false
+    },
+    {
+        "id": 6,
+        "word": "sagacious",
+        "pronunciation": "səˈɡeɪʃəs",
+        "partOfSpeech": "adjective",
+        "definition": "having or showing keen mental discernment and good judgment; wise or shrewd.",
+        "example": "Her sagacious advice helped him navigate through the difficult situation.",
+        "isFavorite": true
+    },
+    {
+        "id": 7,
+        "word": "tenacious",
+        "pronunciation": "tɪˈneɪʃəs",
+        "partOfSpeech": "adjective",
+        "definition": "tending to keep a firm hold of something; clinging or adhering closely.",
+        "example": "Despite the challenges, she remained tenacious in her pursuit of justice.",
+        "isFavorite": true
+    },
+    {
+        "id": 8,
+        "word": "ubiquitous",
+        "pronunciation": "juːˈbɪkwɪtəs",
+        "partOfSpeech": "adjective",
+        "definition": "present, appearing, or found everywhere.",
+        "example": "Smartphones have become ubiquitous in today's society.",
+        "isFavorite": false
+    },
+    {
+        "id": 9,
+        "word": "voracious",
+        "pronunciation": "vəˈreɪʃəs",
+        "partOfSpeech": "adjective",
+        "definition": "having a very eager approach to an activity; consuming large quantities of food.",
+        "example": "She was a voracious reader, devouring books one after another.",
+        "isFavorite": true
+    },
+    {
+        "id": 10,
+        "word": "wizened",
+        "pronunciation": "ˈwɪzənd",
+        "partOfSpeech": "adjective",
+        "definition": "shriveled or wrinkled with age.",
+        "example": "The old man's face was wizened and covered in deep lines.",
+        "isFavorite": false
+    },
+    {
+        "id": 11,
+        "word": "xenophobic",
+        "pronunciation": "ˌzɛnəˈfoʊbɪk",
+        "partOfSpeech": "adjective",
+        "definition": "having or showing a dislike of or prejudice against people from other countries.",
+        "example": "The xenophobic policies of the government were widely criticized.",
+        "isFavorite": false
+    },
+    {
+        "id": 12,
+        "word": "yearn",
+        "pronunciation": "jɜːrn",
+        "partOfSpeech": "verb",
+        "definition": "have an intense feeling of longing for something, typically something that one has lost or been separated from.",
+        "example": "He yearned for the days when he could travel freely.",
+        "isFavorite": false
+    },
+    {
+        "id": 13,
+        "word": "zealous",
+        "pronunciation": "ˈzɛləs",
+        "partOfSpeech": "adjective",
+        "definition": "having or showing zeal; fervent.",
+        "example": "She was a zealous supporter of environmental causes.",
+        "isFavorite": true
+    }
+]
