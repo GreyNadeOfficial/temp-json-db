@@ -118,12 +118,20 @@
     }, 
     {
         "id": 14,
-        "word": "equably",
+        "word": "bruh",
         "pronunciation": "ˈɛkwəbli",
         "partOfSpeech": "adverb",
         "definition": "in a calm and even manner; not varying.",
         "example": "She spoke equably, maintaining a calm tone throughout the meeting.",
         "isFavorite": false
-    },
+    },{
+        "id": 15,
+        "word": "lastttttt",
+        "pronunciation": "ˈɛkwəbli",
+        "partOfSpeech": "adverb",
+        "definition": "in a calm and even manner; not varying.",
+        "example": "She spoke equably, maintaining a calm tone throughout the meeting.",
+        "isFavorite": false
+    }
 ]
 }
