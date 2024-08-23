@@ -126,7 +126,15 @@
         "isFavorite": false
     },{
         "id": 15,
-        "word": "lastttttt",
+        "word": "second last",
+        "pronunciation": "ˈɛkwəbli",
+        "partOfSpeech": "adverb",
+        "definition": "in a calm and even manner; not varying.",
+        "example": "She spoke equably, maintaining a calm tone throughout the meeting.",
+        "isFavorite": false
+    },{
+        "id": 16,
+        "word": "last",
         "pronunciation": "ˈɛkwəbli",
         "partOfSpeech": "adverb",
         "definition": "in a calm and even manner; not varying.",
