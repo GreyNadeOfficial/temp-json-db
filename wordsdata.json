@@ -1,4 +1,4 @@
-[
+{"words":[
     {
         "id": 1,
         "word": "equably",
@@ -115,5 +115,15 @@
         "definition": "having or showing zeal; fervent.",
         "example": "She was a zealous supporter of environmental causes.",
         "isFavorite": true
-    }
+    }, 
+    {
+        "id": 14,
+        "word": "equably",
+        "pronunciation": "ˈɛkwəbli",
+        "partOfSpeech": "adverb",
+        "definition": "in a calm and even manner; not varying.",
+        "example": "She spoke equably, maintaining a calm tone throughout the meeting.",
+        "isFavorite": false
+    },
 ]
+}
