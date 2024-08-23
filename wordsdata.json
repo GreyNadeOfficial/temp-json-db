@@ -50,7 +50,7 @@
         "partOfSpeech": "adjective",
         "definition": "having or showing keen mental discernment and good judgment; wise or shrewd.",
         "example": "Her sagacious advice helped him navigate through the difficult situation.",
-        "isFavorite": true
+        "isFavorite": false
     },
     {
         "id": 7,
@@ -59,7 +59,7 @@
         "partOfSpeech": "adjective",
         "definition": "tending to keep a firm hold of something; clinging or adhering closely.",
         "example": "Despite the challenges, she remained tenacious in her pursuit of justice.",
-        "isFavorite": true
+        "isFavorite": false
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "partOfSpeech": "adjective",
         "definition": "having a very eager approach to an activity; consuming large quantities of food.",
         "example": "She was a voracious reader, devouring books one after another.",
-        "isFavorite": true
+        "isFavorite": false
     },
     {
         "id": 10,
