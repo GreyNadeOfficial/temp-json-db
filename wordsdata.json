@@ -1,5 +1,5 @@
 {
-"words":[
+  "words":[
     {
         "id": 1,
         "word": "equably",
@@ -113,38 +113,302 @@
         "definition": "having or showing zeal; fervent.",
         "example": "She was a zealous supporter of environmental causes."
          
-    }, 
+    },
     {
         "id": 14,
-        "word": "bruh",
-        "pronunciation": "ˈɛkwəbli",
-        "partOfSpeech": "adverb",
-        "definition": "in a calm and even manner; not varying.",
-        "example": "She spoke equably, maintaining a calm tone throughout the meeting."
-         
-    },{
+        "word": "aplomb",
+        "pronunciation": "əˈplɒm",
+        "partOfSpeech": "noun",
+        "definition": "self-confidence or assurance, especially when in a demanding situation.",
+        "example": "She handled the challenging situation with aplomb."
+    },
+    {
         "id": 15,
-        "word": "second last",
-        "pronunciation": "ˈɛkwəbli",
-        "partOfSpeech": "adverb",
-        "definition": "in a calm and even manner; not varying.",
-        "example": "She spoke equably, maintaining a calm tone throughout the meeting."
-         
-    },{
+        "word": "beguile",
+        "pronunciation": "bɪˈɡaɪl",
+        "partOfSpeech": "verb",
+        "definition": "to charm or enchant, often in a deceptive way.",
+        "example": "He was beguiled by her beauty and charm."
+    },
+    {
         "id": 16,
-        "word": "last",
-        "pronunciation": "ˈɛkwəbli",
-        "partOfSpeech": "adverb",
-        "definition": "in a calm and even manner; not varying.",
-        "example": "She spoke equably, maintaining a calm tone throughout the meeting."
-         
-    },{
+        "word": "cacophony",
+        "pronunciation": "kəˈkɒfəni",
+        "partOfSpeech": "noun",
+        "definition": "a harsh, discordant mixture of sounds.",
+        "example": "The cacophony of car horns and sirens was overwhelming."
+    },
+    {
         "id": 17,
-        "word": "erorr last",
-        "pronunciation": "ˈɛkwəbli",
-        "partOfSpeech": "adverb",
-        "definition": "in a calm and even manner; not varying.",
-        "example": "She spoke equably, maintaining a calm tone throughout the meeting."
+        "word": "demure",
+        "pronunciation": "dɪˈmjʊə",
+        "partOfSpeech": "adjective",
+        "definition": "reserved, modest, and shy.",
+        "example": "Her demure smile made her even more charming."
+    },
+    {
+        "id": 18,
+        "word": "effervescent",
+        "pronunciation": "ˌɛfəˈvɛsənt",
+        "partOfSpeech": "adjective",
+        "definition": "bubbly, lively, and enthusiastic.",
+        "example": "Her effervescent personality brightened everyone's day."
+    },
+    {
+        "id": 19,
+        "word": "fortuitous",
+        "pronunciation": "fɔːrˈtjuːɪtəs",
+        "partOfSpeech": "adjective",
+        "definition": "happening by chance, often in a beneficial way.",
+        "example": "Their meeting was purely fortuitous, yet it changed their lives."
+    },
+    {
+        "id": 20,
+        "word": "gregarious",
+        "pronunciation": "ɡrɪˈɡɛəriəs",
+        "partOfSpeech": "adjective",
+        "definition": "fond of company; sociable.",
+        "example": "He was a gregarious man who loved spending time with friends."
+    },
+    {
+        "id": 21,
+        "word": "halcyon",
+        "pronunciation": "ˈhælsiən",
+        "partOfSpeech": "adjective",
+        "definition": "denoting a period of time in the past that was idyllically happy and peaceful.",
+        "example": "She often reminisced about the halcyon days of her youth."
+    },
+    {
+        "id": 22,
+        "word": "iconoclast",
+        "pronunciation": "aɪˈkɒnəklæst",
+        "partOfSpeech": "noun",
+        "definition": "a person who attacks or criticizes cherished beliefs or institutions.",
+        "example": "He was an iconoclast, challenging the traditions of his time."
+    },
+    {
+        "id": 23,
+        "word": "juxtapose",
+        "pronunciation": "ˌdʒʌkstəˈpoʊz",
+        "partOfSpeech": "verb",
+        "definition": "to place side by side for contrast.",
+        "example": "The artist juxtaposed modern and classical elements in her painting."
+    },
+    {
+        "id": 24,
+        "word": "kaleidoscopic",
+        "pronunciation": "kəˌlaɪdəˈskɒpɪk",
+        "partOfSpeech": "adjective",
+        "definition": "constantly changing or varying, like a kaleidoscope.",
+        "example": "The kaleidoscopic colors of the sunset were breathtaking."
+    },
+    {
+        "id": 25,
+        "word": "lucid",
+        "pronunciation": "ˈluːsɪd",
+        "partOfSpeech": "adjective",
+        "definition": "expressed clearly; easy to understand.",
+        "example": "His explanation was so lucid that even a child could follow it."
+    },
+    {
+        "id": 26,
+        "word": "mellifluous",
+        "pronunciation": "məˈlɪfluəs",
+        "partOfSpeech": "adjective",
+        "definition": "sweet or musical; pleasant to hear.",
+        "example": "Her mellifluous voice was a delight to listen to."
+    },
+    {
+        "id": 27,
+        "word": "nadir",
+        "pronunciation": "ˈneɪdɪər",
+        "partOfSpeech": "noun",
+        "definition": "the lowest point in the fortunes of a person or organization.",
+        "example": "After the scandal, his career hit its nadir."
+    },
+    {
+        "id": 28,
+        "word": "obfuscate",
+        "pronunciation": "ˈɒbfʌskeɪt",
+        "partOfSpeech": "verb",
+        "definition": "to deliberately make something unclear or confusing.",
+        "example": "The lawyer's goal was to obfuscate the truth."
+    },
+    {
+        "id": 29,
+        "word": "penultimate",
+        "pronunciation": "pɪˈnʌltɪmət",
+        "partOfSpeech": "adjective",
+        "definition": "second to the last.",
+        "example": "The penultimate chapter of the book was filled with suspense."
+    },
+    {
+        "id": 30,
+        "word": "quixotic",
+        "pronunciation": "kwɪkˈsɒtɪk",
+        "partOfSpeech": "adjective",
+        "definition": "exceedingly idealistic; unrealistic and impractical.",
+        "example": "His quixotic dreams of fame and fortune were never realized."
+    },
+    {
+        "id": 31,
+        "word": "raucous",
+        "pronunciation": "ˈrɔːkəs",
+        "partOfSpeech": "adjective",
+        "definition": "making or constituting a disturbingly harsh and loud noise.",
+        "example": "The raucous laughter from the party kept the neighbors awake."
+    },
+    {
+        "id": 32,
+        "word": "serendipity",
+        "pronunciation": "ˌsɛrənˈdɪpɪti",
+        "partOfSpeech": "noun",
+        "definition": "the occurrence of events by chance in a happy or beneficial way.",
+        "example": "It was serendipity that led them to find the lost ring."
+    },
+    {
+        "id": 33,
+        "word": "taciturn",
+        "pronunciation": "ˈtæsɪtɜːrn",
+        "partOfSpeech": "adjective",
+        "definition": "reserved or uncommunicative in speech; saying little.",
+        "example": "The taciturn man rarely spoke at family gatherings."
+    },
+    {
+        "id": 34,
+        "word": "ubiquitous",
+        "pronunciation": "juːˈbɪkwɪtəs",
+        "partOfSpeech": "adjective",
+        "definition": "present, appearing, or found everywhere.",
+        "example": "Smartphones are now ubiquitous in modern society."
+    },
+    {
+        "id": 35,
+        "word": "vexatious",
+        "pronunciation": "vɛkˈseɪʃəs",
+        "partOfSpeech": "adjective",
+        "definition": "causing or tending to cause annoyance, frustration, or worry.",
+        "example": "The vexatious paperwork delayed the process."
+    },
+    {
+        "id": 36,
+        "word": "winsome",
+        "pronunciation": "ˈwɪnsəm",
+        "partOfSpeech": "adjective",
+        "definition": "attractive or appealing in a fresh, innocent way.",
+        "example": "Her winsome smile could charm anyone she met."
+    },
+    {
+        "id": 37,
+        "word": "xylophone",
+        "pronunciation": "ˈzaɪləfoʊn",
+        "partOfSpeech": "noun",
+        "definition": "a musical instrument in which metal or wooden bars are struck to produce sounds.",
+        "example": "The children played the xylophone in the school concert."
+    },
+    {
+        "id": 38,
+        "word": "yen",
+        "pronunciation": "jɛn",
+        "partOfSpeech": "noun",
+        "definition": "a longing or yearning for something.",
+        "example": "She had a yen for adventure and travel."
+    },
+    {
+        "id": 39,
+        "word": "zenith",
+        "pronunciation": "ˈziːnɪθ",
+        "partOfSpeech": "noun",
+        "definition": "the highest point reached by a celestial object; peak.",
+        "example": "The empire was at the zenith of its power."
+    },
+    {
+        "id": 40,
+        "word": "audacious",
+        "pronunciation": "ɔːˈdeɪʃəs",
+        "partOfSpeech": "adjective",
+        "definition": "showing a willingness to take bold risks; fearless.",
+        "example": "Her audacious plan impressed her colleagues."
+    },
+    {
+        "id": 41,
+        "word": "blandishment",
+        "pronunciation": "ˈblændɪʃmənt",
+        "partOfSpeech": "noun",
+        "definition": "flattering or pleasing statements or actions used to persuade someone.",
+        "example": "He resisted the blandishments of his colleagues to stay longer."
+    },
+    {
+        "id": 42,
+        "word": "cantankerous",
+        "pronunciation": "kænˈtæŋkərəs",
+        "partOfSpeech": "adjective",
+        "definition": "bad-tempered, argumentative, and uncooperative.",
+        "example": "The cantankerous old man refused to listen to reason."
+    },
+    {
+        "id": 43,
+        "word": "deft",
+        "pronunciation": "dɛft",
+        "partOfSpeech": "adjective",
+        "definition": "demonstrating skill and cleverness.",
+        "example": "Her deft handling of the situation impressed everyone."
+    },
+    {
+        "id": 44,
+        "word": "elucidate",
+        "pronunciation": "ɪˈluːsɪdeɪt",
+        "partOfSpeech": "verb",
+        "definition": "make something clear; explain.",
+        "example": "He tried to elucidate the complex theory for the audience."
+    },
+    {
+        "id": 45,
+        "word": "frivolous",
+        "pronunciation": "ˈfrɪvələs",
+        "partOfSpeech": "adjective",
+        "definition": "not having any serious purpose or value.",
+        "example": "Her frivolous spending worried her parents."
+    },
+    {
+        "id": 46,
+        "word": "garrulous",
+        "pronunciation": "ˈɡærʊləs",
+        "partOfSpeech": "adjective",
+        "definition": "excessively talkative, especially on trivial matters.",
+        "example": "The garrulous man could talk for hours about nothing."
+    },
+    {
+        "id": 47,
+        "word": "harangue",
+        "pronunciation": "həˈræŋ",
+        "partOfSpeech": "noun",
+        "definition": "a lengthy and aggressive speech.",
+        "example": "He delivered a passionate harangue about the importance of justice."
+    },
+    {
+        "id": 48,
+        "word": "intransigent",
+        "pronunciation": "ɪnˈtrænsɪdʒənt",
+        "partOfSpeech": "adjective",
+        "definition": "unwilling or refusing to change one's views or to agree about something.",
+        "example": "Both parties were intransigent, and no progress was made in the negotiations."
+    },
+    {
+        "id": 49,
+        "word": "jejune",
+        "pronunciation": "dʒɪˈdʒuːn",
+        "partOfSpeech": "adjective",
+        "definition": "naive, simplistic, and superficial.",
+        "example": "His jejune understanding of politics led to many misunderstandings."
+    },
+    {
+        "id": 50,
+        "word": "kismet",
+        "pronunciation": "ˈkɪzmɛt",
+        "partOfSpeech": "noun",
+        "definition": "destiny; fate.",
+        "example": "Their meeting was pure kismet, as if it was written in the stars."
     }
-]
+  ]
 }
