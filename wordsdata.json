@@ -1,414 +1,1106 @@
 {
-  "words":[
-    {
+  "version": 3,
+  "last_updated": "2025-04-11 16:10:32",
+  "words": [
+      {
         "id": 1,
-        "word": "equably",
-        "pronunciation": "ˈɛkwəbli",
+        "word": "aboard",
+        "cefr": "C1",
+        "difficulty": "advanced",
+        "pronunciation": "/\u0259\u02c8b\u0254\u02d0d/",
         "partOfSpeech": "adverb",
-        "definition": "in a calm and even manner; not varying.",
-        "example": "She spoke equably, maintaining a calm tone throughout the meeting."
-    },
-    {
+        "definition": "On board; into or within a ship or boat; hence, into or within a railway car.",
+        "example": "We all climbed aboard."
+      },
+      {
         "id": 2,
-        "word": "retinue",
-        "pronunciation": "ˈrɛtɪnjuː",
-        "partOfSpeech": "noun",
-        "definition": "a group of advisers, assistants, or others accompanying an important person.",
-        "example": "The queen arrived with her retinue of advisors and guards."
-    },
-    {
+        "word": "abolish",
+        "cefr": "C2",
+        "difficulty": "advanced",
+        "pronunciation": "/\u0259\u02c8b\u0252l\u026a\u0283/",
+        "partOfSpeech": "verb",
+        "definition": "To end a law, system, institution, custom or practice.",
+        "example": "Slavery was abolished in the nineteenth century."
+      },
+      {
         "id": 3,
-        "word": "perfunctory",
-        "pronunciation": "pəˈfʌŋktəri",
+        "word": "about",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8b\u025b\u028at/",
         "partOfSpeech": "adjective",
-        "definition": "carried out with a minimum of effort or reflection.",
-        "example": "He gave a perfunctory nod before leaving the room."
-    },
-    {
+        "definition": "Moving around; astir.",
+        "example": "After my bout with Guillan-Barre Syndrome, it took me 6 months to be up and about again."
+      },
+      {
         "id": 4,
-        "word": "quintessential",
-        "pronunciation": "ˌkwɪntɪˈsɛnʃəl",
-        "partOfSpeech": "adjective",
-        "definition": "representing the most perfect or typical example of a quality or class.",
-        "example": "She was the quintessential example of grace and elegance."
-         
-    },
-    {
+        "word": "abruptly",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259.\u02c8b\u0279\u028cpt.li/",
+        "partOfSpeech": "adverb",
+        "definition": "In an abrupt manner; without giving notice, or without the usual forms; suddenly; precipitously.",
+        "example": "The professor stopped her lecture abruptly when she noticed someone fall off their seat."
+      },
+      {
         "id": 5,
-        "word": "recalcitrant",
-        "pronunciation": "rɪˈkælsɪtrənt",
-        "partOfSpeech": "adjective",
-        "definition": "having an obstinately uncooperative attitude towards authority or discipline.",
-        "example": "The recalcitrant child refused to obey his parents' instructions."
-         
-    },
-    {
+        "word": "absence",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6b.s(\u0259)n\u0329s/",
+        "partOfSpeech": "noun",
+        "definition": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+        "example": "Absence makes the heart grow fonder."
+      },
+      {
         "id": 6,
-        "word": "sagacious",
-        "pronunciation": "səˈɡeɪʃəs",
-        "partOfSpeech": "adjective",
-        "definition": "having or showing keen mental discernment and good judgment; wise or shrewd.",
-        "example": "Her sagacious advice helped him navigate through the difficult situation."
-         
-    },
-    {
+        "word": "absolute",
+        "cefr": "C1",
+        "difficulty": "advanced",
+        "pronunciation": "/\u02c8\u00e6b.s\u0259\u02cclju\u02d0t/",
+        "partOfSpeech": "noun",
+        "definition": "That which is independent of context-dependent interpretation, inviolate, fundamental.",
+        "example": "moral absolutes"
+      },
+      {
         "id": 7,
-        "word": "tenacious",
-        "pronunciation": "tɪˈneɪʃəs",
+        "word": "abundant",
+        "cefr": "C2",
+        "difficulty": "advanced",
+        "pronunciation": "/\u0259\u02c8b\u028cn.dn\u0329t/",
         "partOfSpeech": "adjective",
-        "definition": "tending to keep a firm hold of something; clinging or adhering closely.",
-        "example": "Despite the challenges, she remained tenacious in her pursuit of justice."
-         
-    },
-    {
+        "definition": "Fully sufficient; found in copious supply; in great quantity; overflowing.",
+        "example": "[W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation. \u2014 Leigh Hunt, On the Realities of Imagination"
+      },
+      {
         "id": 8,
-        "word": "ubiquitous",
-        "pronunciation": "juːˈbɪkwɪtəs",
-        "partOfSpeech": "adjective",
-        "definition": "present, appearing, or found everywhere.",
-        "example": "Smartphones have become ubiquitous in today's society."
-         
-    },
-    {
+        "word": "abuse",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8bju\u02d0s/",
+        "partOfSpeech": "noun",
+        "definition": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+        "example": "All abuse, whether physical, verbal, psychological or sexual, is bad."
+      },
+      {
         "id": 9,
-        "word": "voracious",
-        "pronunciation": "vəˈreɪʃəs",
-        "partOfSpeech": "adjective",
-        "definition": "having a very eager approach to an activity; consuming large quantities of food.",
-        "example": "She was a voracious reader, devouring books one after another."
-         
-    },
-    {
+        "word": "accent",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8ak.s\u0259nt/",
+        "partOfSpeech": "noun",
+        "definition": "A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.",
+        "example": "In the word \"careful\", the accent is placed on the first syllable."
+      },
+      {
         "id": 10,
-        "word": "wizened",
-        "pronunciation": "ˈwɪzənd",
+        "word": "acceptable",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u00e6k.\u02c8s\u025bp.t\u0259.b\u0259l/",
         "partOfSpeech": "adjective",
-        "definition": "shriveled or wrinkled with age.",
-        "example": "The old man's face was wizened and covered in deep lines."
-         
-    },
-    {
+        "definition": "Worthy, decent, sure of being accepted or received with at least moderate pleasure",
+        "example": "We need to find an acceptable present for Jeff."
+      },
+      {
         "id": 11,
-        "word": "xenophobic",
-        "pronunciation": "ˌzɛnəˈfoʊbɪk",
+        "word": "accessory",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u00e6k\u02c8s\u025bs(\u0259)\u0279i/",
         "partOfSpeech": "adjective",
-        "definition": "having or showing a dislike of or prejudice against people from other countries.",
-        "example": "The xenophobic policies of the government were widely criticized."
-         
-    },
-    {
+        "definition": "Having a secondary, supplementary or subordinate function by accompanying as a subordinate; aiding in a secondary way; being additional; being connected as an incident or subordinate to a principal; contributing or being contributory. Said of people and things, and, when of people, usually in a bad sense",
+        "example": "She was accessory to the riot."
+      },
+      {
         "id": 12,
-        "word": "yearn",
-        "pronunciation": "jɜːrn",
-        "partOfSpeech": "verb",
-        "definition": "have an intense feeling of longing for something, typically something that one has lost or been separated from.",
-        "example": "He yearned for the days when he could travel freely."
-         
-    },
-    {
+        "word": "accident",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u00e6k.s\u0259.d\u0259nt/",
+        "partOfSpeech": "noun",
+        "definition": "An unexpected event with negative consequences occurring without the intention of the one suffering the consequences.",
+        "example": "to die by an accident"
+      },
+      {
         "id": 13,
-        "word": "zealous",
-        "pronunciation": "ˈzɛləs",
-        "partOfSpeech": "adjective",
-        "definition": "having or showing zeal; fervent.",
-        "example": "She was a zealous supporter of environmental causes."
-         
-    },
-    {
+        "word": "accidentally",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02cc\u00e6ks\u0259\u02c8d\u025bnt(\u0259)li/",
+        "partOfSpeech": "adverb",
+        "definition": "In an accidental manner; by chance, unexpectedly.",
+        "example": "He discovered penicillin largely accidentally."
+      },
+      {
         "id": 14,
-        "word": "aplomb",
-        "pronunciation": "əˈplɒm",
-        "partOfSpeech": "noun",
-        "definition": "self-confidence or assurance, especially when in a demanding situation.",
-        "example": "She handled the challenging situation with aplomb."
-    },
-    {
+        "word": "accompany",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259.\u02c8k\u028cm.p\u0259.ni/",
+        "partOfSpeech": "verb",
+        "definition": "To go with or attend as a companion or associate; to keep company with; to go along with.",
+        "example": "Geoffrey accompanied the group on their pilgrimage."
+      },
+      {
         "id": 15,
-        "word": "beguile",
-        "pronunciation": "bɪˈɡaɪl",
+        "word": "accumulate",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8kju\u02d0mj\u028a\u02ccle\u026at/",
         "partOfSpeech": "verb",
-        "definition": "to charm or enchant, often in a deceptive way.",
-        "example": "He was beguiled by her beauty and charm."
-    },
-    {
+        "definition": "To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively)",
+        "example": "He wishes to accumulate a sum of money."
+      },
+      {
         "id": 16,
-        "word": "cacophony",
-        "pronunciation": "kəˈkɒfəni",
+        "word": "accuracy",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "[\u02c8\u00e6kj\u028ar\u0259s\u026a]",
         "partOfSpeech": "noun",
-        "definition": "a harsh, discordant mixture of sounds.",
-        "example": "The cacophony of car horns and sirens was overwhelming."
-    },
-    {
+        "definition": "The state of being accurate; being free from mistakes, this exemption arising from carefulness; exactness; correctness",
+        "example": "The value of testimony depends on its accuracy."
+      },
+      {
         "id": 17,
-        "word": "demure",
-        "pronunciation": "dɪˈmjʊə",
+        "word": "accurate",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6k.j\u0259.\u0279\u026at/",
         "partOfSpeech": "adjective",
-        "definition": "reserved, modest, and shy.",
-        "example": "Her demure smile made her even more charming."
-    },
-    {
+        "definition": "Telling the truth or giving a true result; exact; not defective or faulty",
+        "example": "accurate knowledge"
+      },
+      {
         "id": 18,
-        "word": "effervescent",
-        "pronunciation": "ˌɛfəˈvɛsənt",
-        "partOfSpeech": "adjective",
-        "definition": "bubbly, lively, and enthusiastic.",
-        "example": "Her effervescent personality brightened everyone's day."
-    },
-    {
+        "word": "acquisition",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u00e6.kw\u026a.\u02c8z\u026a.\u0283\u0259n/",
+        "partOfSpeech": "noun",
+        "definition": "The act or process of acquiring.",
+        "example": "The acquisition of sports equipment can be fun in itself."
+      },
+      {
         "id": 19,
-        "word": "fortuitous",
-        "pronunciation": "fɔːrˈtjuːɪtəs",
+        "word": "admirable",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6d.m\u0259\u0279.\u0259.b\u0259l/",
         "partOfSpeech": "adjective",
-        "definition": "happening by chance, often in a beneficial way.",
-        "example": "Their meeting was purely fortuitous, yet it changed their lives."
-    },
-    {
+        "definition": "Deserving of the highest esteem or admiration.",
+        "example": "It's admirable that Shelley overcame her handicap and excelled in her work."
+      },
+      {
         "id": 20,
-        "word": "gregarious",
-        "pronunciation": "ɡrɪˈɡɛəriəs",
-        "partOfSpeech": "adjective",
-        "definition": "fond of company; sociable.",
-        "example": "He was a gregarious man who loved spending time with friends."
-    },
-    {
+        "word": "admiration",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02cc\u00e6d.m\u025a\u02c8e\u026a\u0283.\u0259n/",
+        "partOfSpeech": "noun",
+        "definition": "A positive emotion including wonder and approbation; the regarding of another as being wonderful",
+        "example": "They looked at the landscape in admiration."
+      },
+      {
         "id": 21,
-        "word": "halcyon",
-        "pronunciation": "ˈhælsiən",
-        "partOfSpeech": "adjective",
-        "definition": "denoting a period of time in the past that was idyllically happy and peaceful.",
-        "example": "She often reminisced about the halcyon days of her youth."
-    },
-    {
+        "word": "admit",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259d\u02c8m\u026at/",
+        "partOfSpeech": "verb",
+        "definition": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+        "example": "A ticket admits one into a playhouse."
+      },
+      {
         "id": 22,
-        "word": "iconoclast",
-        "pronunciation": "aɪˈkɒnəklæst",
+        "word": "advance",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259d\u02c8va\u02d0ns/",
         "partOfSpeech": "noun",
-        "definition": "a person who attacks or criticizes cherished beliefs or institutions.",
-        "example": "He was an iconoclast, challenging the traditions of his time."
-    },
-    {
+        "definition": "A forward move; improvement or progression.",
+        "example": "an advance in health or knowledge"
+      },
+      {
         "id": 23,
-        "word": "juxtapose",
-        "pronunciation": "ˌdʒʌkstəˈpoʊz",
-        "partOfSpeech": "verb",
-        "definition": "to place side by side for contrast.",
-        "example": "The artist juxtaposed modern and classical elements in her painting."
-    },
-    {
+        "word": "advancement",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u00e6d\u02c8v\u00e6ns.m\u025bnt/",
+        "partOfSpeech": "noun",
+        "definition": "The act of advancing, ; promotion to a higher place or dignity",
+        "example": "the advancement of learning"
+      },
+      {
         "id": 24,
-        "word": "kaleidoscopic",
-        "pronunciation": "kəˌlaɪdəˈskɒpɪk",
-        "partOfSpeech": "adjective",
-        "definition": "constantly changing or varying, like a kaleidoscope.",
-        "example": "The kaleidoscopic colors of the sunset were breathtaking."
-    },
-    {
+        "word": "advantage",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259d\u02c8v\u0251\u02d0n.t\u026ad\u0292/",
+        "partOfSpeech": "noun",
+        "definition": "Any condition, circumstance, opportunity or means, particularly favorable to success, or to any desired end.",
+        "example": "The enemy had the advantage of a more elevated position."
+      },
+      {
         "id": 25,
-        "word": "lucid",
-        "pronunciation": "ˈluːsɪd",
-        "partOfSpeech": "adjective",
-        "definition": "expressed clearly; easy to understand.",
-        "example": "His explanation was so lucid that even a child could follow it."
-    },
-    {
+        "word": "adverb",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6d.v\u025c\u02d0b/",
+        "partOfSpeech": "noun",
+        "definition": "(grammar) A word that modifies a verb, adjective, other adverbs, or various other types of words, phrases, or clauses.",
+        "example": "I often went outside hiking during my stay in Japan."
+      },
+      {
         "id": 26,
-        "word": "mellifluous",
-        "pronunciation": "məˈlɪfluəs",
+        "word": "adverse",
+        "cefr": "C2",
+        "difficulty": "advanced",
+        "pronunciation": "/\u0259d\u02c8v\u025c(\u0279)s/",
         "partOfSpeech": "adjective",
-        "definition": "sweet or musical; pleasant to hear.",
-        "example": "Her mellifluous voice was a delight to listen to."
-    },
-    {
+        "definition": "Unfavorable; antagonistic in purpose or effect; hostile; actively opposing one's interests or wishes; contrary to one's welfare; acting against; working in an opposing direction.",
+        "example": "adverse criticism"
+      },
+      {
         "id": 27,
-        "word": "nadir",
-        "pronunciation": "ˈneɪdɪər",
+        "word": "advertisement",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259d\u02c8v\u025c\u02d0t\u026asm\u0259nt/",
         "partOfSpeech": "noun",
-        "definition": "the lowest point in the fortunes of a person or organization.",
-        "example": "After the scandal, his career hit its nadir."
-    },
-    {
+        "definition": "A commercial solicitation designed to sell some commodity, service or similar.",
+        "example": "Companies try to sell their products using advertisements in form of placards, television spots and print publications."
+      },
+      {
         "id": 28,
-        "word": "obfuscate",
-        "pronunciation": "ˈɒbfʌskeɪt",
-        "partOfSpeech": "verb",
-        "definition": "to deliberately make something unclear or confusing.",
-        "example": "The lawyer's goal was to obfuscate the truth."
-    },
-    {
+        "word": "advice",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259d\u02c8va\u026as/",
+        "partOfSpeech": "noun",
+        "definition": "An opinion offered in an effort to be helpful.",
+        "example": "She was offered various piece of advice on what to do with her new-found wealth."
+      },
+      {
         "id": 29,
-        "word": "penultimate",
-        "pronunciation": "pɪˈnʌltɪmət",
-        "partOfSpeech": "adjective",
-        "definition": "second to the last.",
-        "example": "The penultimate chapter of the book was filled with suspense."
-    },
-    {
-        "id": 30,
-        "word": "quixotic",
-        "pronunciation": "kwɪkˈsɒtɪk",
-        "partOfSpeech": "adjective",
-        "definition": "exceedingly idealistic; unrealistic and impractical.",
-        "example": "His quixotic dreams of fame and fortune were never realized."
-    },
-    {
-        "id": 31,
-        "word": "raucous",
-        "pronunciation": "ˈrɔːkəs",
-        "partOfSpeech": "adjective",
-        "definition": "making or constituting a disturbingly harsh and loud noise.",
-        "example": "The raucous laughter from the party kept the neighbors awake."
-    },
-    {
-        "id": 32,
-        "word": "serendipity",
-        "pronunciation": "ˌsɛrənˈdɪpɪti",
-        "partOfSpeech": "noun",
-        "definition": "the occurrence of events by chance in a happy or beneficial way.",
-        "example": "It was serendipity that led them to find the lost ring."
-    },
-    {
-        "id": 33,
-        "word": "taciturn",
-        "pronunciation": "ˈtæsɪtɜːrn",
-        "partOfSpeech": "adjective",
-        "definition": "reserved or uncommunicative in speech; saying little.",
-        "example": "The taciturn man rarely spoke at family gatherings."
-    },
-    {
-        "id": 34,
-        "word": "ubiquitous",
-        "pronunciation": "juːˈbɪkwɪtəs",
-        "partOfSpeech": "adjective",
-        "definition": "present, appearing, or found everywhere.",
-        "example": "Smartphones are now ubiquitous in modern society."
-    },
-    {
-        "id": 35,
-        "word": "vexatious",
-        "pronunciation": "vɛkˈseɪʃəs",
-        "partOfSpeech": "adjective",
-        "definition": "causing or tending to cause annoyance, frustration, or worry.",
-        "example": "The vexatious paperwork delayed the process."
-    },
-    {
-        "id": 36,
-        "word": "winsome",
-        "pronunciation": "ˈwɪnsəm",
-        "partOfSpeech": "adjective",
-        "definition": "attractive or appealing in a fresh, innocent way.",
-        "example": "Her winsome smile could charm anyone she met."
-    },
-    {
-        "id": 37,
-        "word": "xylophone",
-        "pronunciation": "ˈzaɪləfoʊn",
-        "partOfSpeech": "noun",
-        "definition": "a musical instrument in which metal or wooden bars are struck to produce sounds.",
-        "example": "The children played the xylophone in the school concert."
-    },
-    {
-        "id": 38,
-        "word": "yen",
-        "pronunciation": "jɛn",
-        "partOfSpeech": "noun",
-        "definition": "a longing or yearning for something.",
-        "example": "She had a yen for adventure and travel."
-    },
-    {
-        "id": 39,
-        "word": "zenith",
-        "pronunciation": "ˈziːnɪθ",
-        "partOfSpeech": "noun",
-        "definition": "the highest point reached by a celestial object; peak.",
-        "example": "The empire was at the zenith of its power."
-    },
-    {
-        "id": 40,
-        "word": "audacious",
-        "pronunciation": "ɔːˈdeɪʃəs",
-        "partOfSpeech": "adjective",
-        "definition": "showing a willingness to take bold risks; fearless.",
-        "example": "Her audacious plan impressed her colleagues."
-    },
-    {
-        "id": 41,
-        "word": "blandishment",
-        "pronunciation": "ˈblændɪʃmənt",
-        "partOfSpeech": "noun",
-        "definition": "flattering or pleasing statements or actions used to persuade someone.",
-        "example": "He resisted the blandishments of his colleagues to stay longer."
-    },
-    {
-        "id": 42,
-        "word": "cantankerous",
-        "pronunciation": "kænˈtæŋkərəs",
-        "partOfSpeech": "adjective",
-        "definition": "bad-tempered, argumentative, and uncooperative.",
-        "example": "The cantankerous old man refused to listen to reason."
-    },
-    {
-        "id": 43,
-        "word": "deft",
-        "pronunciation": "dɛft",
-        "partOfSpeech": "adjective",
-        "definition": "demonstrating skill and cleverness.",
-        "example": "Her deft handling of the situation impressed everyone."
-    },
-    {
-        "id": 44,
-        "word": "elucidate",
-        "pronunciation": "ɪˈluːsɪdeɪt",
+        "word": "advise",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259d\u02c8va\u026az/",
         "partOfSpeech": "verb",
-        "definition": "make something clear; explain.",
-        "example": "He tried to elucidate the complex theory for the audience."
-    },
-    {
+        "definition": "To give advice to; to offer an opinion to, as worthy or expedient to be followed.",
+        "example": "The dentist advised me to brush three times a day."
+      },
+      {
+        "id": 30,
+        "word": "affair",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8f\u025b\u0259/",
+        "partOfSpeech": "noun",
+        "definition": "(often in the plural) Something which is done or is to be done; business of any kind, commercial, professional, or public.",
+        "example": "a difficult affair to manage"
+      },
+      {
+        "id": 31,
+        "word": "affect",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8f\u025bkt/",
+        "partOfSpeech": "verb",
+        "definition": "To influence or alter.",
+        "example": "The experience affected me deeply."
+      },
+      {
+        "id": 32,
+        "word": "affectionate",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8f\u025bk\u0283\u0259n\u0259t/",
+        "partOfSpeech": "adjective",
+        "definition": "(of a person) Having affection or warm regard; loving; fond.",
+        "example": "She eulogised her always warm and affectionate brother."
+      },
+      {
+        "id": 33,
+        "word": "afford",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8f\u0254\u02d0d/",
+        "partOfSpeech": "verb",
+        "definition": "To incur, stand, or bear without serious detriment, as an act which might under other circumstances be injurious;\u2014with an auxiliary, as can, could, might, etc.; to be able or rich enough.",
+        "example": "I think we can afford the extra hour it will take.\u2003 We can only afford to buy a small car at the moment."
+      },
+      {
+        "id": 34,
+        "word": "affordable",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8f\u0254\u02d0(\u0279).d\u0259.b\u0259l/",
+        "partOfSpeech": "adjective",
+        "definition": "Able to be afforded; inexpensive or reasonably priced.",
+        "example": "an affordable vacation in the local area"
+      },
+      {
+        "id": 35,
+        "word": "afraid",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8f\u0279e\u026ad/",
+        "partOfSpeech": "adjective",
+        "definition": "(usually used predicatively, not attributively, be afraid) Impressed with fear or apprehension; in fear.",
+        "example": "He is afraid of death."
+      },
+      {
+        "id": 36,
+        "word": "against",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8\u0261e\u026anst/",
+        "partOfSpeech": "preposition",
+        "definition": "In a contrary direction to.",
+        "example": "It is hard work to swim against the current."
+      },
+      {
+        "id": 37,
+        "word": "aged",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/e\u026ad\u0292d/",
+        "partOfSpeech": "verb",
+        "definition": "To cause to grow old; to impart the characteristics of age to.",
+        "example": "Grief ages us."
+      },
+      {
+        "id": 38,
+        "word": "aggressive",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8\u0261\u0279\u025bs.\u026av/",
+        "partOfSpeech": "adjective",
+        "definition": "Characterized by aggression; unjustly attacking; prone to behave in a way that involves attacking or arguing.",
+        "example": "an aggressive policy, war, person, nation"
+      },
+      {
+        "id": 39,
+        "word": "ago",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8\u0261\u0259\u028a/",
+        "partOfSpeech": "adjective",
+        "definition": "Gone; gone by; gone away; passed; passed away.",
+        "example": "in days ago/in days agone"
+      },
+      {
+        "id": 40,
+        "word": "agree",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8\u0261\u0279i/",
+        "partOfSpeech": "verb",
+        "definition": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+        "example": "all parties agree in the expediency of the law."
+      },
+      {
+        "id": 41,
+        "word": "agreement",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8\u0261\u0279i\u02d0m\u0259nt/",
+        "partOfSpeech": "noun",
+        "definition": "An understanding between entities to follow a specific course of conduct.",
+        "example": "to enter an agreement;\u00a0 the UK and US negotiators nearing agreement;\u00a0 he nodded his agreement."
+      },
+      {
+        "id": 42,
+        "word": "aid",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/e\u026ad/",
+        "partOfSpeech": "noun",
+        "definition": "Help; assistance; succor, relief.",
+        "example": "He came to my aid when I was foundering."
+      },
+      {
+        "id": 43,
+        "word": "aim",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/e\u026am/",
+        "partOfSpeech": "noun",
+        "definition": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+        "example": "Take time with the aim of your gun."
+      },
+      {
+        "id": 44,
+        "word": "air",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u025b\u0259/",
+        "partOfSpeech": "noun",
+        "definition": "The substance constituting earth's atmosphere, particularly:",
+        "example": "I'm going outside to get some air."
+      },
+      {
         "id": 45,
-        "word": "frivolous",
-        "pronunciation": "ˈfrɪvələs",
-        "partOfSpeech": "adjective",
-        "definition": "not having any serious purpose or value.",
-        "example": "Her frivolous spending worried her parents."
-    },
-    {
+        "word": "airport",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u025b\u0259.p\u0254\u02d0t/",
+        "partOfSpeech": "noun",
+        "definition": "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports) one or more passenger terminals.",
+        "example": "Because of this, and contrary to popular belief, British airports primarily act as giant wealth extractors, transporting our richest citizens out of the country as often as possible to take their money overseas. \u2015 The Independent, Heathrow expansion to mainly benefit wealthy frequent fliers, research finds, 23 june 2018."
+      },
+      {
         "id": 46,
-        "word": "garrulous",
-        "pronunciation": "ˈɡærʊləs",
+        "word": "alike",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8la\u026ak/",
         "partOfSpeech": "adjective",
-        "definition": "excessively talkative, especially on trivial matters.",
-        "example": "The garrulous man could talk for hours about nothing."
-    },
-    {
+        "definition": "Having resemblance or similitude; similar; without difference.",
+        "example": "The twins were alike."
+      },
+      {
         "id": 47,
-        "word": "harangue",
-        "pronunciation": "həˈræŋ",
+        "word": "all",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0254\u02d0l/",
         "partOfSpeech": "noun",
-        "definition": "a lengthy and aggressive speech.",
-        "example": "He delivered a passionate harangue about the importance of justice."
-    },
-    {
+        "definition": "(with a possessive pronoun) Everything that one is capable of.",
+        "example": "She gave her all, and collapsed at the finish line."
+      },
+      {
         "id": 48,
-        "word": "intransigent",
-        "pronunciation": "ɪnˈtrænsɪdʒənt",
+        "word": "all right",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02cc\u0254\u02d0l\u02c8\u0279a\u026at/",
         "partOfSpeech": "adjective",
-        "definition": "unwilling or refusing to change one's views or to agree about something.",
-        "example": "Both parties were intransigent, and no progress was made in the negotiations."
-    },
-    {
+        "definition": "Good; in acceptable, if not excellent condition.",
+        "example": "The car is all right. It gets me there, anyway."
+      },
+      {
         "id": 49,
-        "word": "jejune",
-        "pronunciation": "dʒɪˈdʒuːn",
-        "partOfSpeech": "adjective",
-        "definition": "naive, simplistic, and superficial.",
-        "example": "His jejune understanding of politics led to many misunderstandings."
-    },
-    {
-        "id": 50,
-        "word": "kismet",
-        "pronunciation": "ˈkɪzmɛt",
+        "word": "allegation",
+        "cefr": "C1",
+        "difficulty": "advanced",
+        "pronunciation": "/\u02cc\u00e6l.\u0259\u02c8\u0261e\u026a.\u0283\u0259n/",
         "partOfSpeech": "noun",
-        "definition": "destiny; fate.",
-        "example": "Their meeting was pure kismet, as if it was written in the stars."
-    }
-  ]
+        "definition": "An assertion, especially an accusation, not necessarily based on facts.",
+        "example": "She put forth several allegations regarding her partner in hopes of discrediting his actions."
+      },
+      {
+        "id": 50,
+        "word": "allow",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8la\u028a/",
+        "partOfSpeech": "verb",
+        "definition": "To grant, give, admit, accord, afford, or yield; to let one have.",
+        "example": "to allow a servant his liberty;\u00a0 to allow a free passage;\u00a0 to allow one day for rest"
+      },
+      {
+        "id": 51,
+        "word": "almost",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0254\u02d0l.\u02c8m\u0259\u028ast/",
+        "partOfSpeech": "noun",
+        "definition": "Something or someone that doesn't quite make it.",
+        "example": "In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts."
+      },
+      {
+        "id": 52,
+        "word": "alone",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8l\u0259\u028an/",
+        "partOfSpeech": "adjective",
+        "definition": "By oneself, solitary.",
+        "example": "I can't ask for help because I am alone."
+      },
+      {
+        "id": 53,
+        "word": "along",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8l\u0251\u014b/",
+        "partOfSpeech": "adverb",
+        "definition": "In company; together.",
+        "example": "John played the piano and everyone sang along."
+      },
+      {
+        "id": 54,
+        "word": "alongside",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259.l\u0252\u014b\u02c8sa\u026ad/",
+        "partOfSpeech": "adverb",
+        "definition": "Along the side; by the side; side by side with.",
+        "example": "Ahoy! Bring your boat alongside mine."
+      },
+      {
+        "id": 55,
+        "word": "alphabet",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6l.f\u0259.b\u025bt/",
+        "partOfSpeech": "noun",
+        "definition": "The set of letters used when writing in a language.",
+        "example": "In the first year of school, pupils are taught to recite the alphabet."
+      },
+      {
+        "id": 56,
+        "word": "alright",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0252\u02c8\u0279a\u026at/",
+        "partOfSpeech": "adjective",
+        "definition": "Good; in acceptable, if not excellent condition.",
+        "example": "The car is all right. It gets me there, anyway."
+      },
+      {
+        "id": 57,
+        "word": "also",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u0254\u02d0l.s\u0259\u028a/",
+        "partOfSpeech": "adverb",
+        "definition": "(focus) In addition; besides; as well; further; too.",
+        "example": "They had porridge for breakfast, and also toast."
+      },
+      {
+        "id": 58,
+        "word": "although",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0254\u02d0l\u02c8\u00f0\u0259\u028a/",
+        "partOfSpeech": "conjunction",
+        "definition": "Though, even though, in spite of or despite the fact that: introducing a clause that expresses a concession.",
+        "example": "Although it was very muddy, the football game went on."
+      },
+      {
+        "id": 59,
+        "word": "altitude",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6lt.\u026a\u02cctju\u02d0d/",
+        "partOfSpeech": "noun",
+        "definition": "The absolute height of a location, usually measured from sea level.",
+        "example": "As the altitude increases, the temperature gets lower, so remember to bring warm clothes to the mountains."
+      },
+      {
+        "id": 60,
+        "word": "always",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u0254\u02d0(l).we\u026az/",
+        "partOfSpeech": "adverb",
+        "definition": "At all times; throughout all time; since the beginning.",
+        "example": "Airplanes did not always exist as a form of transportation."
+      },
+      {
+        "id": 61,
+        "word": "amazed",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8me\u026azd/",
+        "partOfSpeech": "verb",
+        "definition": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+        "example": "He was amazed when he found that the girl was a robot."
+      },
+      {
+        "id": 62,
+        "word": "amazing",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8me\u026az\u026a\u014b/",
+        "partOfSpeech": "verb",
+        "definition": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+        "example": "He was amazed when he found that the girl was a robot."
+      },
+      {
+        "id": 63,
+        "word": "ambiguity",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u00e6mb\u026a\u02c8\u0261ju\u02d0\u026ati/",
+        "partOfSpeech": "noun",
+        "definition": "Something, particularly words and sentences, that is open to more than one interpretation, explanation or meaning, if that meaning etc cannot be determined from its context.",
+        "example": "His speech was made with such great ambiguity that neither supporter nor opponent could be certain of his true position."
+      },
+      {
+        "id": 64,
+        "word": "ambiguous",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u00e6m\u02c8b\u026a\u0261ju\u0259s/",
+        "partOfSpeech": "adjective",
+        "definition": "Open to multiple interpretations.",
+        "example": "The politician was criticized for his ambiguous statements and lack of precision."
+      },
+      {
+        "id": 65,
+        "word": "ambition",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u00e6m\u02c8b\u026a.\u0283\u0259n/",
+        "partOfSpeech": "noun",
+        "definition": "Eager or inordinate desire for some object that confers distinction, as preferment, honor, superiority, political power, or literary fame; desire to distinguish one's self from other people.",
+        "example": "My son, John, wants to be a firefighter very much. He has a lot of ambition."
+      },
+      {
+        "id": 66,
+        "word": "ambitious",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u00e6m\u02c8b\u026a\u0283.\u0259s/",
+        "partOfSpeech": "adjective",
+        "definition": "(of a person or their character) Having or showing ambition; wanting a lot of power, honor, respect, superiority, or other distinction.",
+        "example": "an ambitious person"
+      },
+      {
+        "id": 67,
+        "word": "among",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8m\u0252\u014b/",
+        "partOfSpeech": "preposition",
+        "definition": "Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst.)",
+        "example": "How can you speak with authority about their customs when you have never lived among them?"
+      },
+      {
+        "id": 68,
+        "word": "amongst",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8m\u028c\u014bst/",
+        "partOfSpeech": "preposition",
+        "definition": "Denotes a mingling or intermixing with distinct or separable objects. See usage note at amidst.",
+        "example": "Janek feels very at ease amongst his friends, but gets incredibly nervous when meeting new people."
+      },
+      {
+        "id": 69,
+        "word": "amount",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8ma\u028ant/",
+        "partOfSpeech": "noun",
+        "definition": "The total, aggregate or sum of material (not applicable to discrete numbers or units or items in standard English).",
+        "example": "The amount of atmospheric pollution threatens a health crisis."
+      },
+      {
+        "id": 70,
+        "word": "amplify",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6mp.l\u026a.fa\u026a/",
+        "partOfSpeech": "verb",
+        "definition": "To render larger, more extended, or more intense.",
+        "example": "amplify a microscopes"
+      },
+      {
+        "id": 71,
+        "word": "amuse",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8mju\u02d0z/",
+        "partOfSpeech": "verb",
+        "definition": "To entertain or occupy in a pleasant manner; to stir with pleasing emotions.",
+        "example": "I watch these movies because they amuse me."
+      },
+      {
+        "id": 72,
+        "word": "amused",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8mju\u02d0zd/",
+        "partOfSpeech": "verb",
+        "definition": "To entertain or occupy in a pleasant manner; to stir with pleasing emotions.",
+        "example": "I watch these movies because they amuse me."
+      },
+      {
+        "id": 73,
+        "word": "amusing",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8mju\u02d0z\u026a\u014b/",
+        "partOfSpeech": "verb",
+        "definition": "To entertain or occupy in a pleasant manner; to stir with pleasing emotions.",
+        "example": "I watch these movies because they amuse me."
+      },
+      {
+        "id": 74,
+        "word": "anger",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6\u014b\u0261\u0259(\u0279)/",
+        "partOfSpeech": "noun",
+        "definition": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
+        "example": "You need to control your anger."
+      },
+      {
+        "id": 75,
+        "word": "angle",
+        "cefr": "C1",
+        "difficulty": "advanced",
+        "pronunciation": "/\u02c8\u00e6\u014b.\u0261\u0259l/",
+        "partOfSpeech": "noun",
+        "definition": "A figure formed by two rays which start from a common point (a plane angle) or by three planes that intersect (a solid angle).",
+        "example": "the angle between lines A and B"
+      },
+      {
+        "id": 76,
+        "word": "angrily",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u00e6\u014b.\u0261\u0279\u0259.li/",
+        "partOfSpeech": "adverb",
+        "definition": "In an angry manner; under the influence of anger.",
+        "example": "\"Leave me alone for once,\" she said angrily."
+      },
+      {
+        "id": 77,
+        "word": "angry",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u00e6\u014b.\u0261\u0279i/",
+        "partOfSpeech": "adjective",
+        "definition": "Displaying or feeling anger.",
+        "example": "An angry mob started looting the warehouse."
+      },
+      {
+        "id": 78,
+        "word": "animal",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u00e6n\u026am\u0259l/",
+        "partOfSpeech": "noun",
+        "definition": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants).",
+        "example": "A cat is an animal, not a plant. Humans are also animals, under the scientific definition, as we are not plants."
+      },
+      {
+        "id": 79,
+        "word": "animate",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6.n\u0259.me\u026at/",
+        "partOfSpeech": "verb",
+        "definition": "To impart motion or the appearance of motion to.",
+        "example": "If we animate the model, we can see the complexity of the action."
+      },
+      {
+        "id": 80,
+        "word": "animated",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6n.\u026a.me\u026a.t\u026ad/",
+        "partOfSpeech": "verb",
+        "definition": "To impart motion or the appearance of motion to.",
+        "example": "If we animate the model, we can see the complexity of the action."
+      },
+      {
+        "id": 81,
+        "word": "anniversary",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02cc\u00e6n\u026a\u02c8v\u025c\u02d0s(\u0259)\u0279i/",
+        "partOfSpeech": "noun",
+        "definition": "A day that is an exact number of years (to the day) since a given significant event occurred. Often preceded by an ordinal number indicating the number of years.",
+        "example": "Today is the fiftieth anniversary of the end of the war."
+      },
+      {
+        "id": 82,
+        "word": "announcement",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8na\u028ans.m\u025bnt/",
+        "partOfSpeech": "noun",
+        "definition": "An act of announcing, or giving notice.",
+        "example": "He raised his hand to make his announcement and said \"Excuse me everyone, I have an announcement to make."
+      },
+      {
+        "id": 83,
+        "word": "annoyed",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8n\u0254\u026ad/",
+        "partOfSpeech": "verb",
+        "definition": "To disturb or irritate, especially by continued or repeated acts; to bother with unpleasant deeds.",
+        "example": "Marc loved his sister, but when she annoyed him he wanted to switch her off."
+      },
+      {
+        "id": 84,
+        "word": "annual",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6n.ju.\u0259l/",
+        "partOfSpeech": "noun",
+        "definition": "An annual publication; a book, periodical, journal, report, comic book, yearbook, etc., which is published serially once a year, which may or may not be in addition to regular weekly or monthly publication.",
+        "example": "I read the magazine, but I usually don't purchase the annuals."
+      },
+      {
+        "id": 85,
+        "word": "answer",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8an.s\u0259/",
+        "partOfSpeech": "noun",
+        "definition": "A response or reply; something said or done in reaction to a statement or question.",
+        "example": "Her answer to his proposal was a slap in the face."
+      },
+      {
+        "id": 86,
+        "word": "anticipation",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u00e6n.t\u026as.\u0259\u02c8pe.\u0283\u0259n/",
+        "partOfSpeech": "noun",
+        "definition": "The act of anticipating, taking up, placing, or considering something beforehand, or before the proper time in natural order.",
+        "example": "Often the anticipation of a shot is worse than the pain of the stick."
+      },
+      {
+        "id": 87,
+        "word": "antonym",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6nt\u0259\u02ccn\u026am/",
+        "partOfSpeech": "noun",
+        "definition": "A word which has the opposite meaning of another word.",
+        "example": "\u201crich\u201d is an antonym of \u201cpoor\u201d; \u201cfull\u201d is an antonym of \u201cempty\u201d"
+      },
+      {
+        "id": 88,
+        "word": "anxiously",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6\u014b(k).\u0283\u0259s.li/",
+        "partOfSpeech": "adverb",
+        "definition": "In an anxious manner; with painful uncertainty; solicitously.",
+        "example": "He anxiously awaited the arrival of his child."
+      },
+      {
+        "id": 89,
+        "word": "any",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u00e6ni/",
+        "partOfSpeech": "adverb",
+        "definition": "To even the slightest extent, at all.",
+        "example": "I will not remain here any longer."
+      },
+      {
+        "id": 90,
+        "word": "anybody",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u025bn.i.b\u0252d.i/",
+        "partOfSpeech": "pronoun",
+        "definition": "Any one out of an indefinite number of persons; anyone; any person.",
+        "example": "Anybody will do."
+      },
+      {
+        "id": 91,
+        "word": "anymore",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02cc\u00e6.ni\u02c8mo\u02d0\u0279/",
+        "partOfSpeech": "adverb",
+        "definition": "(in negative or interrogative constructions) From a given time onwards; longer, again.",
+        "example": "They don't make repairable radios any more."
+      },
+      {
+        "id": 92,
+        "word": "anyone",
+        "cefr": "A1",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u00e6ni\u02ccw\u028cn/",
+        "partOfSpeech": "pronoun",
+        "definition": "Any person; anybody.",
+        "example": "Almost anyone can change a light bulb."
+      },
+      {
+        "id": 93,
+        "word": "anyway",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u025bniwe\u026a/",
+        "partOfSpeech": "adverb",
+        "definition": "Regardless; anyhow.",
+        "example": "He didn't enjoy washing his car, but it was so dirty that he did it anyway."
+      },
+      {
+        "id": 94,
+        "word": "anywhere",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u025bn.i\u02d0.(h)w\u025b\u0259(\u0279)/",
+        "partOfSpeech": "adverb",
+        "definition": "In or at any location or an unknown location.",
+        "example": "I don't know where I left my keys. They could be anywhere."
+      },
+      {
+        "id": 95,
+        "word": "apart",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8p\u0251\u02d0(\u0279)t/",
+        "partOfSpeech": "adjective",
+        "definition": "(Used after a noun or in the predicate) Exceptional, distinct.",
+        "example": "a world apart"
+      },
+      {
+        "id": 96,
+        "word": "apology",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8p\u0252l.\u0259.d\u0292i/",
+        "partOfSpeech": "noun",
+        "definition": "An expression of remorse or regret for having said or done something that harmed another: an instance of apologizing (saying that one is sorry).",
+        "example": "The CEO made a public apology for the scandal, and promised full cooperation with the authorities."
+      },
+      {
+        "id": 97,
+        "word": "appearance",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8p\u026a\u0259\u0279\u0259ns/",
+        "partOfSpeech": "noun",
+        "definition": "The act of appearing or coming into sight; the act of becoming visible to the eye.",
+        "example": "His sudden appearance surprised me."
+      },
+      {
+        "id": 98,
+        "word": "applicant",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u00e6p.l\u0259.k\u026ant/",
+        "partOfSpeech": "noun",
+        "definition": "One who applies for something; one who makes a request; a petitioner.",
+        "example": "Our job advertisement attracted seven applicants."
+      },
+      {
+        "id": 99,
+        "word": "application",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/apl\u026a\u02c8ke\u026a\u0283(\u0259)n/",
+        "partOfSpeech": "noun",
+        "definition": "The act of applying or laying on, in a literal sense",
+        "example": "The application of this cream should reduce the swelling."
+      },
+      {
+        "id": 100,
+        "word": "apply",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8pla\u026a/",
+        "partOfSpeech": "verb",
+        "definition": "To lay or place; to put (one thing to another)",
+        "example": "to apply cream to a rash"
+      },
+      {
+        "id": 101,
+        "word": "appointment",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8p\u0254\u026ant.m\u025bnt/",
+        "partOfSpeech": "noun",
+        "definition": "The act of appointing a person to hold an office or to have a position of trust",
+        "example": "His appointment was deemed suitable"
+      },
+      {
+        "id": 102,
+        "word": "appreciate",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u0259\u02c8p\u0279i\u02d0.si.e\u026at/",
+        "partOfSpeech": "verb",
+        "definition": "To be grateful or thankful for.",
+        "example": "I appreciate your efforts"
+      },
+      {
+        "id": 103,
+        "word": "appreciation",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02ccp\u0279i\u02d0.\u0283i\u02c8e\u026a.\u0283\u0259n/",
+        "partOfSpeech": "noun",
+        "definition": "A fair valuation or estimate of merit, worth, weight, etc.; recognition of excellence.",
+        "example": "We give to you this trophy as a token of our appreciation of all your years of service."
+      },
+      {
+        "id": 104,
+        "word": "approval",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8p\u0279u\u02d0v\u0259l/",
+        "partOfSpeech": "noun",
+        "definition": "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "example": "I need to get an approval on this purchase order."
+      },
+      {
+        "id": 105,
+        "word": "approve",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8p\u0279u\u02d0v/",
+        "partOfSpeech": "verb",
+        "definition": "To sanction officially; to ratify; to confirm; to set as satisfactory.",
+        "example": "Although we may disagree with it, we must nevertheless approve the sentence handed down by the court-martial."
+      },
+      {
+        "id": 106,
+        "word": "approximately",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8p\u0279\u0252k.s\u026a.m\u0259t.li/",
+        "partOfSpeech": "adverb",
+        "definition": "Imprecise but close to in quantity or amount.",
+        "example": "...approximately 60 beats per minute."
+      },
+      {
+        "id": 107,
+        "word": "architect",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u02c8\u0251\u02d0k\u026at\u025bkt/",
+        "partOfSpeech": "noun",
+        "definition": "A professional who designs buildings or other structures, or who prepares plans and superintends construction.",
+        "example": "Plato made the causes of things to be matter, ideas, and an efficient architect."
+      },
+      {
+        "id": 108,
+        "word": "architecture",
+        "cefr": "A2",
+        "difficulty": "beginner",
+        "pronunciation": "/\u02c8\u0251\u02d0.k\u026a.\u02cct\u025bk.t\u0283\u0259/",
+        "partOfSpeech": "noun",
+        "definition": "The art and science of designing and managing the construction of buildings and other structures, particularly if they are well proportioned and decorated.",
+        "example": "Architecture is the visual public expression of a culture\u2019s achievements, values, and outlook. \u2015 Max Roscoe, \"How Your City Is Killing You With Ugliness\""
+      },
+      {
+        "id": 109,
+        "word": "arena",
+        "cefr": "B2",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8\u0279i\u02d0n\u0259/",
+        "partOfSpeech": "noun",
+        "definition": "An enclosed area, often outdoor, for the presentation of sporting events (sports arena) or other spectacular events; earthen area, often oval, specifically for rodeos (North America) or circular area for bullfights (especially Hispanic America).",
+        "example": "A large crowd filled the seats of the arena."
+      },
+      {
+        "id": 110,
+        "word": "arise",
+        "cefr": "B1",
+        "difficulty": "intermediate",
+        "pronunciation": "/\u0259\u02c8\u0279a\u026az/",
+        "partOfSpeech": "verb",
+        "definition": "To come up from a lower to a higher position.",
+        "example": "to arise from a kneeling posture"
+      }
+    ]
 }
